@@ -1,8 +1,10 @@
-hash: 1b58b821027cc7fad40859a1557ceb952805575f611b37dd7928327f40550ace
-updated: 2017-08-21T12:57:17.301295374-07:00
+hash: b78b1c63e1f7543e29423e0314085bf4fc60f71b8403f0155b13e0415c4e51a0
+updated: 2017-08-21T15:19:54.105794081-07:00
 imports:
 - name: github.com/julienschmidt/httprouter
   version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
+- name: github.com/lib/pq
+  version: 8837942c3e09574accbc5f150e2c5e057189cace
 - name: github.com/stretchr/testify
   version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
 testImports: []
