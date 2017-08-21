@@ -32,3 +32,11 @@ glide install
 ```bash
 go run main.go
 ```
+
+**Adding new golang libraries**
+
+*In `~/go/src/github.com/ORGANIZATION/bare_go_server*
+
+```bash
+glide get github.com/AUTHOR/REPO
+```
