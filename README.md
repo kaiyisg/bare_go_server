@@ -22,3 +22,13 @@ glide install
 ```
 
 ## Development
+
+**Run the tests**
+
+**Run the server**
+
+*In `~/go/src/github.com/ORGANIZATION/bare_go_server*
+
+```bash
+go run main.go
+```
