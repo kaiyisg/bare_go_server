@@ -1,2 +1,4 @@
 # cfg files
 config/*.json
+
+.DS_Store
