@@ -1,4 +1,8 @@
 # cfg files
 config/*.json
 
+# Mac config files
 .DS_Store
+
+# Glide vendor directory
+vendor
